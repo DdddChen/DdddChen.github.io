@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://DdddChen.github.io</id>
-    <title>DdddChen</title>
-    <updated>2021-03-09T06:46:18.670Z</updated>
+    <title>D Chen&apos;s Blog</title>
+    <updated>2021-03-10T01:54:19.888Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://DdddChen.github.io"/>
     <link rel="self" href="https://DdddChen.github.io/atom.xml"/>
     <subtitle>个人博客</subtitle>
     <logo>https://DdddChen.github.io/images/avatar.png</logo>
     <icon>https://DdddChen.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, DdddChen</rights>
+    <rights>All rights reserved 2021, D Chen&apos;s Blog</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://DdddChen.github.io/post/hello-gridea/</id>
