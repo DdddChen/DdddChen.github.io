@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://DdddChen.github.io</id>
     <title>D Chen&apos;s Blog</title>
-    <updated>2021-03-10T02:22:54.075Z</updated>
+    <updated>2021-03-10T02:35:13.804Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://DdddChen.github.io"/>
     <link rel="self" href="https://DdddChen.github.io/atom.xml"/>
@@ -10,6 +10,16 @@
     <logo>https://DdddChen.github.io/images/avatar.png</logo>
     <icon>https://DdddChen.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, D Chen&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[test2]]></title>
+        <id>https://DdddChen.github.io/post/test2/</id>
+        <link href="https://DdddChen.github.io/post/test2/">
+        </link>
+        <updated>2021-03-10T02:29:49.000Z</updated>
+        <content type="html"><![CDATA[<p>test<br>
+test</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TEST]]></title>
         <id>https://DdddChen.github.io/post/test/</id>
