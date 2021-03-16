@@ -2,11 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://DdddChen.github.io</id>
     <title>D Chen&apos;s Blog</title>
-    <updated>2021-03-16T09:35:21.258Z</updated>
+    <updated>2021-03-16T10:52:17.414Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://DdddChen.github.io"/>
     <link rel="self" href="https://DdddChen.github.io/atom.xml"/>
-    <subtitle>个人博客</subtitle>
     <logo>https://DdddChen.github.io/images/avatar.png</logo>
     <icon>https://DdddChen.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, D Chen&apos;s Blog</rights>
@@ -16,5 +15,14 @@
         <link href="https://DdddChen.github.io/post/xiao-yao-ke/">
         </link>
         <updated>2021-03-16T03:16:10.000Z</updated>
+        <content type="html"><![CDATA[<p>夕阳摇船轻柳风<br>
+酒满一杯照渔灯<br>
+雾里琵琶美人手<br>
+东风破声在西楼</p>
+<p>晓看月下荷塘间<br>
+朱丹叶抱蕾芳香<br>
+回望一眸迷灯里<br>
+风流人正挑花梦</p>
+]]></content>
     </entry>
 </feed>
