@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://DdddChen.github.io</id>
     <title>D Chen&apos;s Blog</title>
-    <updated>2021-03-16T02:36:08.877Z</updated>
+    <updated>2021-03-16T02:42:19.975Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://DdddChen.github.io"/>
     <link rel="self" href="https://DdddChen.github.io/atom.xml"/>
@@ -10,4 +10,11 @@
     <logo>https://DdddChen.github.io/images/avatar.png</logo>
     <icon>https://DdddChen.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, D Chen&apos;s Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[一个人坐在西厢房]]></title>
+        <id>https://DdddChen.github.io/post/yi-ge-ren-zuo-zai-xi-xiang-fang/</id>
+        <link href="https://DdddChen.github.io/post/yi-ge-ren-zuo-zai-xi-xiang-fang/">
+        </link>
+        <updated>2021-03-16T02:41:17.000Z</updated>
+    </entry>
 </feed>
