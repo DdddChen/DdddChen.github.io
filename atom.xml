@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://DdddChen.github.io</id>
     <title>D Chen&apos;s Blog</title>
-    <updated>2021-03-16T10:52:17.414Z</updated>
+    <updated>2021-03-18T01:42:26.680Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://DdddChen.github.io"/>
     <link rel="self" href="https://DdddChen.github.io/atom.xml"/>
@@ -10,19 +10,37 @@
     <icon>https://DdddChen.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, D Chen&apos;s Blog</rights>
     <entry>
-        <title type="html"><![CDATA[逍遥客]]></title>
-        <id>https://DdddChen.github.io/post/xiao-yao-ke/</id>
-        <link href="https://DdddChen.github.io/post/xiao-yao-ke/">
+        <title type="html"><![CDATA[三叶草]]></title>
+        <id>https://DdddChen.github.io/post/san-xie-cao/</id>
+        <link href="https://DdddChen.github.io/post/san-xie-cao/">
         </link>
-        <updated>2021-03-16T03:16:10.000Z</updated>
-        <content type="html"><![CDATA[<p>夕阳摇船轻柳风<br>
-酒满一杯照渔灯<br>
-雾里琵琶美人手<br>
-东风破声在西楼</p>
-<p>晓看月下荷塘间<br>
-朱丹叶抱蕾芳香<br>
-回望一眸迷灯里<br>
-风流人正挑花梦</p>
+        <updated>2021-03-18T01:41:20.000Z</updated>
+        <content type="html"><![CDATA[<p>E：<br>
+我是一个女孩 随意 简单<br>
+褪去一个茧而成坏女孩<br>
+坚持前进 相信远方 会一直是天堂</p>
+<p>S：<br>
+我是一个女孩 美丽 坚强<br>
+褪去一个茧重拾一个梦<br>
+努力奔跑 相信远方 会一直是天亮</p>
+<p>H：<br>
+我是一个女孩 勇敢 善良<br>
+褪去一个茧我是我自己<br>
+展翅飞翔 相信远方 会一直是天蓝</p>
+<p>合：<br>
+三叶草的天真<br>
+S、E：<br>
+为你忘记人的生命都很脆弱<br>
+合：<br>
+三叶草的骄傲<br>
+H：<br>
+为你唱高两个八度都不压抑<br>
+合：<br>
+三叶草的陪伴<br>
+在你面前傻笑大笑变成人生</p>
+<p>合：<br>
+一次次的绽放 一次次的彷徨 一次次的站上舞台歌唱</p>
+<p>用力挥手 直到约定的八十岁还要大声唱</p>
 ]]></content>
     </entry>
 </feed>
